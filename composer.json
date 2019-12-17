@@ -1,0 +1,23 @@
+{
+    "name": "larazhong/larapackage",
+    "description": "how to develop a laravel package",
+    "license": "MIT",
+    "authors": [
+        {   
+            "name": "larazhong",
+            "email": "523135169@qq.com"
+        }   
+    ],  
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.*"
+    },  
+    "autoload": {
+        "psr-0": {
+            "LaraZhong\\LaraPackage": "src/"
+        }   
+    }   
+}
+
+
+
